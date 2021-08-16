@@ -6,7 +6,7 @@ AirMQ API is based on GraphQL query language. It is different from the majority 
 GraphQL is typically different from REST in that it:
 
 * has single endpoint for all queries and operations
-* uses POST requests for both sending and getting data
+* uses http POST requests for both sending and getting data
 * accepts JSON-like queries
 * returns data only in JSON format
 
