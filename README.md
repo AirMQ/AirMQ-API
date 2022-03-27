@@ -14,4 +14,4 @@ GraphQL is typically different from REST in that it:
 
 ### 3. Querying data ###
 
-Complete documentation based on SpectaQL is [soon to be] available at https://api-docs.airmq.by
+Complete documentation based on SpectaQL is available at https://api-docs.airmq.by
